@@ -1,0 +1,4 @@
+[package]
+name = "panic_because_i_spaced_out_at_my_desk"
+version = "0.1.0"
+edition = "2021"
